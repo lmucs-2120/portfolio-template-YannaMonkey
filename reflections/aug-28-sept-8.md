@@ -17,6 +17,7 @@ The thing that gets in my way the most when I am trying to learn is my attention
 
 {% hint style="success" %}
 **SSR for weeks 1 & 2**
+
 This week we learned about the basics of the class and started to learn about searches
 also finished the first week at a new school
 * ...
@@ -25,6 +26,7 @@ also finished the first week at a new school
 
 {% hint style="success" %}
 **Goals for weeks 3 & 4**
+
 I hope to learn more about different searches and to meet more new people
 * ...
 *
