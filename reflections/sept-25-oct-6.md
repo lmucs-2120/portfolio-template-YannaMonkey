@@ -18,7 +18,9 @@ I do not want to do the long readings for my Greek history class, because they t
 (optional) Go over your list, considering Martha Beck's 3 B's:
 
 * **Bag** it: do you really _have to_ do it? Is it aligned with what you want? What would happen if you did not do it? Can you live with that?\
-  \
+* 
+  I do need to do it because we discuss the readings in class.
+  
   If it _must_ be done, consider...
 * **Barter** it: can someone else do it (and maybe you can do something you dread less that would be helpful for them)? \
   \
@@ -37,7 +39,7 @@ Also got to play around with virtual reality which was cool because I have not h
 
 {% hint style="success" %}
 **Goals for weeks 7 & 8**
-I hope to learn more about these sorting techniques
+I hope to learn more about these sorting techniques, because the ones we have covered in clas so far have been interesting.
 * ...
 *
 {% endhint %}
