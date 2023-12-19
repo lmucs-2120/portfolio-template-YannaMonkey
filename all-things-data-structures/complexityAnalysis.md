@@ -2,6 +2,7 @@ Time Complexity Analysis
 
 Big O is the way of representing it
 examples
+
 O(1): The execution time of the algorithm is constant and does not depend on the input size.
 
 O(log n): The execution time grows logarithmically with the input size. This is common in algorithms that divide the problem in half each time, like binary search.
