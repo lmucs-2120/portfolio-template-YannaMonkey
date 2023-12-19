@@ -21,11 +21,12 @@ I do not want to do the long readings for my Greek history class, because they t
 * 
   I do need to do it because we discuss the readings in class.
   
-  If it _must_ be done, consider...
+
 * **Barter** it: can someone else do it (and maybe you can do something you dread less that would be helpful for them)? \
   \
   If not, then...
 * **Better** it: how can you make yourself extra comfortable while you do the thing? Find a quiet space or good playlist, your favorite snacks, and softest socks.
+  I decided to set aside an hour each day to try and get through a portion of it, so I don't need to do it all at once.
 {% endhint %}
 
 {% hint style="success" %}
@@ -39,7 +40,7 @@ Also got to play around with virtual reality which was cool because I have not h
 
 {% hint style="success" %}
 **Goals for weeks 7 & 8**
-I hope to learn more about these sorting techniques, because the ones we have covered in clas so far have been interesting.
+I hope to learn more about these sorting techniques because the ones we have covered in class so far have been interesting.
 * ...
 *
 {% endhint %}
