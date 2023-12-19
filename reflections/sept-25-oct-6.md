@@ -10,6 +10,8 @@ I have been learning a lot across all my classes, like more about Greek history,
 (optional) Make a list of things on you don't want to do&#x20;
 {% endhint %}
 
+I do not want to do the long readings for my Greek history class, because they take a long time to do and I find it hard to do.
+
 ...
 
 {% hint style="info" %}
@@ -29,7 +31,7 @@ I have been learning a lot across all my classes, like more about Greek history,
 
 * ...
 * Learned about linked lists
-ALso got to play around with virtual reality which was cool because I have not had a lot of experience with one before
+Also got to play around with virtual reality which was cool because I have not had a lot of experience with one before
 *
 {% endhint %}
 
