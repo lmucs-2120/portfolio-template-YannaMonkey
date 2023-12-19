@@ -17,3 +17,4 @@ class Solution:
 
         return k
 
+This was one of the leet code problems that was recommended to do for binary searches. https://leetcode.com/problems/koko-eating-bananas/
